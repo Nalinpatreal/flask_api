@@ -10,8 +10,7 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-20.04
-    job runs-on:         
+    runs-on: ubuntu-20.04        
     permissions:
        actions: read
        contents: read
